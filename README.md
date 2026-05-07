@@ -43,6 +43,7 @@ streamlit run app.py
 
 The dataset is not included due to file size limitations.  
 Use a labelled fraud dataset (e.g., creditcard.csv).
+Link: https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv 
 
 ---
 
